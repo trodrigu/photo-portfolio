@@ -1,0 +1,22 @@
+{
+  "name": "photo-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trodrigu/photo-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trodrigu/photo-portfolio/issues"
+  },
+  "homepage": "https://github.com/trodrigu/photo-portfolio#readme",
+  "devDependencies": {
+    "elm": "^0.19.0-no-deps"
+  }
+}
