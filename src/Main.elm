@@ -287,7 +287,7 @@ toRoute string =
 
 fromUrlToRoute : Url.Url -> Route
 fromUrlToRoute url =
-    case parse routeParser (url |> Debug.log "r: ") of
+    case parse routeParser url of
         Nothing ->
             NotFound
 
